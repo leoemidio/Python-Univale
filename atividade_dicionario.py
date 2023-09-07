@@ -5,7 +5,7 @@ dados_cliente = {
 
 }
 
-print (dados_cliente ["Nome"])
+print (dados_cliente ["LEOMAR"])
 
 dados_cliente["Cidade"]="ivaipora"
 print (dados_cliente)
