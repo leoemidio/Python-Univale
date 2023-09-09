@@ -6,5 +6,5 @@ def raiz_quadrada(x):
     return resultado
 
 # Chamando a função e armazenando o resultado em uma variável
-resultado_raiz = raiz_quadrada(25)
+resultado_raiz = raiz_quadrada(225)
 print(f"O resultado da raiz quadrada é: {resultado_raiz}")
