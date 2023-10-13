@@ -8,3 +8,5 @@ elif opcao == 3:
     print("Você escolheu Laranja.")
 else:
     print("Opçao invalida")
+
+    #fiz uma alteracao no codigo
